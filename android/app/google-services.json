@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706506553303",
+    "project_id": "interview-esteban",
+    "storage_bucket": "interview-esteban.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706506553303:android:3cf189e328311c15073d92",
+        "android_client_info": {
+          "package_name": "com.example.interview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706506553303-akoeq5d3dg9ghfakgqpk96au5uh6al41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlnLJudZc1EJNSe4u2VE6uQbZJ5mZTjeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706506553303-akoeq5d3dg9ghfakgqpk96au5uh6al41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
