@@ -78,7 +78,10 @@ class _PostScreenState extends State<PostScreen> {
               const SizedBox(
                 height: 20,
               ),
-              Expanded(
+              SizedBox(
+                // color: Colors.red,
+                width: size.width,
+                height: size.height * 0.7,
                 child:
                     BlocBuilder<PostBloc, PostState>(builder: (context, state) {
                   if (state is PostLoading) {
